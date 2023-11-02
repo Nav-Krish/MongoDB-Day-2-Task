@@ -11,82 +11,82 @@ db.createCollection("codekata");
 db.codekata.insertMany([
     {
         userId: 1,
-        problemSolved: 13,
+        problemsSolved: 13,
     },
     {
         userId: 2,
-        problemSolved: 11,
+        problemsSolved: 11,
     },
     {
         userId: 3,
-        problemSolved: 16,
+        problemsSolved: 16,
     },
     {
         userId: 4,
-        problemSolved: 31,
+        problemsSolved: 31,
     },
     {
         userId: 5,
-        problemSolved: 33,
+        problemsSolved: 33,
     },
     {
         userId: 6,
-        problemSolved: 36,
+        problemsSolved: 36,
     },
     {
         userId: 7,
-        problemSolved: 61,
+        problemsSolved: 61,
     },
     {
         userId: 8,
-        problemSolved: 63,
+        problemsSolved: 63,
     },
     {
         userId: 9,
-        problemSolved: 66,
+        problemsSolved: 66,
     },
     {
         userId: 10,
-        problemSolved: 66,
+        problemsSolved: 66,
     },
     {
         userId: 11,
-        problemSolved: 63,
+        problemsSolved: 63,
     },
     {
         userId: 12,
-        problemSolved: 16,
+        problemsSolved: 16,
     },
     {
         userId: 13,
-        problemSolved: 61,
+        problemsSolved: 61,
     },
     {
         userId: 14,
-        problemSolved: 36,
+        problemsSolved: 36,
     },
     {
         userId: 15,
-        problemSolved: 33,
+        problemsSolved: 33,
     },
     {
         userId: 16,
-        problemSolved: 13,
+        problemsSolved: 13,
     },
     {
         userId: 17,
-        problemSolved: 31,
+        problemsSolved: 31,
     },
     {
         userId: 18,
-        problemSolved: 16,
+        problemsSolved: 16,
     },
     {
         userId: 19,
-        problemSolved: 13,
+        problemsSolved: 13,
     },
     {
         userId: 20,
-        problemSolved: 11,
+        problemsSolved: 11,
     },
 ]);
