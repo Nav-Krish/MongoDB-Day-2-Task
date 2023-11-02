@@ -4,7 +4,7 @@ use("Zen_Class_Programme");
 
 // Creating collections for Zen_Class_Programme
 
-db.createCollection("codeKata");
+db.createCollection("codekata");
 
 // Creating Documents for codeKata
 
