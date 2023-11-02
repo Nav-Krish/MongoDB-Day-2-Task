@@ -14,7 +14,7 @@ db.users.aggregate([
         _id: 0,
         userId: 1,
         userName: 1,
-        "problemsSolved.problemSolved": 1,
+        "problemsSolved.problemsSolved": 1,
       },
     },
   ])
@@ -26,7 +26,7 @@ db.users.aggregate([
     "userName" : "user01",
     "problemsSolved" : [
         {
-            "problemSolved" : 13
+            "problemsSolved" : 13
         }
     ]
 }
@@ -35,7 +35,7 @@ db.users.aggregate([
     "userName" : "user02",
     "problemsSolved" : [
         {
-            "problemSolved" : 11
+            "problemsSolved" : 11
         }
     ]
 }
@@ -44,7 +44,7 @@ db.users.aggregate([
     "userName" : "user03",
     "problemsSolved" : [
         {
-            "problemSolved" : 16
+            "problemsSolved" : 16
         }
     ]
 }
@@ -53,7 +53,7 @@ db.users.aggregate([
     "userName" : "user04",
     "problemsSolved" : [
         {
-            "problemSolved" : 31
+            "problemsSolved" : 31
         }
     ]
 }
@@ -62,7 +62,7 @@ db.users.aggregate([
     "userName" : "user05",
     "problemsSolved" : [
         {
-            "problemSolved" : 33
+            "problemsSolved" : 33
         }
     ]
 }
@@ -71,7 +71,7 @@ db.users.aggregate([
     "userName" : "user06",
     "problemsSolved" : [
         {
-            "problemSolved" : 36
+            "problemsSolved" : 36
         }
     ]
 }
@@ -80,7 +80,7 @@ db.users.aggregate([
     "userName" : "user07",
     "problemsSolved" : [
         {
-            "problemSolved" : 61
+            "problemsSolved" : 61
         }
     ]
 }
@@ -89,7 +89,7 @@ db.users.aggregate([
     "userName" : "user08",
     "problemsSolved" : [
         {
-            "problemSolved" : 63
+            "problemsSolved" : 63
         }
     ]
 }
@@ -98,7 +98,7 @@ db.users.aggregate([
     "userName" : "user09",
     "problemsSolved" : [
         {
-            "problemSolved" : 66
+            "problemsSolved" : 66
         }
     ]
 }
@@ -107,7 +107,7 @@ db.users.aggregate([
     "userName" : "user10",
     "problemsSolved" : [
         {
-            "problemSolved" : 66
+            "problemsSolved" : 66
         }
     ]
 }
@@ -116,7 +116,7 @@ db.users.aggregate([
     "userName" : "user11",
     "problemsSolved" : [
         {
-            "problemSolved" : 63
+            "problemsSolved" : 63
         }
     ]
 }
@@ -125,7 +125,7 @@ db.users.aggregate([
     "userName" : "user12",
     "problemsSolved" : [
         {
-            "problemSolved" : 16
+            "problemsSolved" : 16
         }
     ]
 }
@@ -134,7 +134,7 @@ db.users.aggregate([
     "userName" : "user13",
     "problemsSolved" : [
         {
-            "problemSolved" : 61
+            "problemsSolved" : 61
         }
     ]
 }
@@ -143,7 +143,7 @@ db.users.aggregate([
     "userName" : "user14",
     "problemsSolved" : [
         {
-            "problemSolved" : 36
+            "problemsSolved" : 36
         }
     ]
 }
@@ -152,7 +152,7 @@ db.users.aggregate([
     "userName" : "user15",
     "problemsSolved" : [
         {
-            "problemSolved" : 33
+            "problemsSolved" : 33
         }
     ]
 }
@@ -161,7 +161,7 @@ db.users.aggregate([
     "userName" : "user16",
     "problemsSolved" : [
         {
-            "problemSolved" : 13
+            "problemsSolved" : 13
         }
     ]
 }
@@ -170,7 +170,7 @@ db.users.aggregate([
     "userName" : "user17",
     "problemsSolved" : [
         {
-            "problemSolved" : 31
+            "problemsSolved" : 31
         }
     ]
 }
@@ -179,7 +179,7 @@ db.users.aggregate([
     "userName" : "user18",
     "problemsSolved" : [
         {
-            "problemSolved" : 16
+            "problemsSolved" : 16
         }
     ]
 }
@@ -188,7 +188,7 @@ db.users.aggregate([
     "userName" : "user19",
     "problemsSolved" : [
         {
-            "problemSolved" : 13
+            "problemsSolved" : 13
         }
     ]
 }
@@ -197,7 +197,7 @@ db.users.aggregate([
     "userName" : "user20",
     "problemsSolved" : [
         {
-            "problemSolved" : 11
+            "problemsSolved" : 11
         }
     ]
 }
